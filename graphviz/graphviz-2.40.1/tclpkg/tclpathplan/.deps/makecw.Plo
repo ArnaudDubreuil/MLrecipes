@@ -1,0 +1,11 @@
+makecw.lo: makecw.c /usr/include/stdc-predef.h \
+ ../../lib/pathplan/pathutil.h ../../lib/pathplan/pathplan.h \
+ ../../lib/pathplan/pathgeom.h
+
+/usr/include/stdc-predef.h:
+
+../../lib/pathplan/pathutil.h:
+
+../../lib/pathplan/pathplan.h:
+
+../../lib/pathplan/pathgeom.h:
